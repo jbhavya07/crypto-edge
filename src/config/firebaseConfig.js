@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBw4S9bs9NINbw_1j3UjCDqk-QPwXKBKOE",
+  apiKey: "CG-EvoiFz3UVSXV82MUzWJfv67T",
   authDomain: "cryptoedge-4bc70.firebaseapp.com",
   projectId: "cryptoedge-4bc70",
   storageBucket: "cryptoedge-4bc70.appspot.com",

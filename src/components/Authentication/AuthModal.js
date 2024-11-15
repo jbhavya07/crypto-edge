@@ -144,7 +144,7 @@ import { GoogleAuthProvider, signInWithPopup } from "firebase/auth";
               }}
               onClick={signInWithGoogle}
             >
-              SignIn With Google
+              Sign In With Google
               
             </Button>
             </Box>

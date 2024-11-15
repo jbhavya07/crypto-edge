@@ -30,7 +30,7 @@ function Footer() {
   return (
     <footer className={classes.footer}>
       <Typography variant="body2" color="goldenrod">
-        &copy; {new Date().getFullYear()} - <Link to="https://github.com/jainpallav61"> Pallav Jain</Link>
+        &copy; {new Date().getFullYear()} - <Link to="https://github.com/jbhavya07"> Bhavya Jain</Link>
       </Typography>
     </footer>
   );
